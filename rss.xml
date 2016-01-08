@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Dose]]></title>
-        <description><![CDATA[Dose]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Test site because I can]]></title>
+        <description><![CDATA[Test site because I can]]></description>
+        <link>https://thegrid.ai/dose/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jan 2016 17:01:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Jan 2016 23:42:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dose/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p> Hey dudes, here my second post! </p>]]></description>
+            <link>https://thegrid.ai/dose/4e39ca73-c510-4c4d-9119-cea2e3e975ec/index.html</link>
+            <guid isPermaLink="false">4e39ca73-c510-4c4d-9119-cea2e3e975ec</guid>
+            <pubDate>Fri, 08 Jan 2016 23:41:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0671ea24-e7a4-447e-b0d4-724851d0ac85.jpg">]]></description>
-            <link>undefinedf526a0ac-6a4a-4bcc-8a0d-b20a4856933e/index.html</link>
+            <link>https://thegrid.ai/dose/f526a0ac-6a4a-4bcc-8a0d-b20a4856933e/index.html</link>
             <guid isPermaLink="false">f526a0ac-6a4a-4bcc-8a0d-b20a4856933e</guid>
             <pubDate>Fri, 08 Jan 2016 17:01:16 GMT</pubDate>
         </item>
