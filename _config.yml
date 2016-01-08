@@ -1,0 +1,28 @@
+name: Dose
+favicon: null
+layout_spectrum: 0.7197994687594473
+typography_spectrum: 0.8441676623187959
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5726908145006746
+  lightness: 0.773384022526443
+  saturation: 0.06781379086896777
+  rhythmicContrast: 0.30885066580958664
+purpose: []
