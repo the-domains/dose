@@ -2,6 +2,7 @@ name: Dose
 favicon: null
 layout_spectrum: 0.7197994687594473
 typography_spectrum: 0.8441676623187959
+title: Test site because I can
 cta:
   domain: null
   bucket: null
